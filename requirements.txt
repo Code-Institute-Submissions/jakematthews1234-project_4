@@ -9,7 +9,7 @@ psycopg2==2.8.4
 python-dateutil==1.5
 python-dotenv==0.10.3
 pytz==2019.3
-requests==2.22.0
+requests==2.31.0
 sqlparse==0.3.0
 stripe==2.40.0
 urllib3==1.25.7
